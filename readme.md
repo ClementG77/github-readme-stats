@@ -123,7 +123,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 You can add the count of all your private contributions to the total commits count by using the query parameter `&count_private=true`.
 
 > **Note**
-> If you are deploying this project yourself, the private contributions will be counted by default. If you are using the public Vercel instance, you need to choose to [share your private contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
+> If you are deploying this project yourself, the private contribution will be counted by default. If you are using the public Vercel instance, you need to choose to [share your private contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
 
 > Options: `&count_private=true`
 
